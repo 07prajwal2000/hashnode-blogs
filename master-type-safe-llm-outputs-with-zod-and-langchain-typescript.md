@@ -3,7 +3,7 @@ title: Master Type-Safe LLM Outputs with Zod and LangChain in TypeScript
 subtitle: Build robust, production-ready AI apps using structured output parsing and validation patterns.
 slug: master-type-safe-llm-outputs-with-zod-and-langchain-typescript
 tags: typescript, zod, langchain, ai, webdev
-domain: 07prajwal2000
+domain: 07prajwal2000.hashnode.dev
 saveAsDraft: false
 enableToc: true
 seriesSlug: ai
