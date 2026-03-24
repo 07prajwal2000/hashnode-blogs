@@ -4,7 +4,7 @@ subtitle: Build robust, production-ready AI apps using structured output parsing
 slug: master-type-safe-llm-outputs-with-zod-and-langchain-typescript
 tags: typescript, zod, langchain, ai, webdev
 domain: 07prajwal2000
-saveAsDraft: true
+saveAsDraft: false
 enableToc: true
 seriesSlug: ai
 cover:
